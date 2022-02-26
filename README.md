@@ -2,7 +2,7 @@
 <h1 align="center">Hi :hugs: I'm Sally</h1>
 <h3 align="center">A passionate frontend developer originally from China</h3>
 
-- 🔭 I’m currently working on [CheckMyFriend](https://github.com/banbanleelee/CheckMyFriend), it's an insight-providing website for my favorite game **League of Legends**!
+- 🔭 I’m currently working on an insight-providing website for my favorite game **League of Legends**!
 
 - 🌱 I’m currently learning **Node.js**
 
