@@ -11,23 +11,24 @@
 - 📫 Reach out to me here - sallyyixuanzhang@gmail.com
 
 - ⚡ My skill set
-| Command | Description |
-|**AWS**| Lambda, ServerLess|
-|**Frontend**|
-|Core|HTML, CSS, JavaScript|
-- ⬧   Libraries/Frameworks: jQuery, React.js
-- ⬧   CSS Libraries: Bootstrap, Materialize, FontAwesome, KendoUI, Bulma
-- Backend
-- ⬧   Environment: Node.js
-- ⬧   Development: MERN Stack
-- ⬧   API Applications: Rest APIs, AJAX/JSON
-- Databases
-- ⬧   Relational: MySQL, MongoDB, Mongoose, GraphQL
-- Miscellaneous
-- ⬧   Process Management: Agile Methodology
-- ⬧   Source Control: Git
-- ⬧   Graphics: Adobe Photoshop, Canva
-- ⬧   IDEs: Visual Studio Code
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<table>
+<thead>
+<tr ALIGN="LEFT">
+<th>Server</th>
+<th>Frontend</th>
+<th>Backend</th>
+<th>Databases</th>
+<th>Miscellaneous</th>
+</tr>
+</thead>
+<tbody>
+<tr VALIGN="TOP">
+<td><p>GQL</p><ul><li>Apollo</li></ul><p>AWS</p><ul><li>Lambda</li><li>ServerLess</li></ul></td>
+<td><p>Core</p><ul><li>HTML</li><li>CSS</li><li>JavaScript</li></ul><p>Libraries/Frameworks</p><ul><li>jQuery</li><li>React.js</li></ul><p>CSS Libraries</p><ul><li>Bootstrap</li><li>Bulma</li><li>FontAwesome</li><li>Materialize</li><li>KendoUI</li></ul></td>
+<td><p>Environment</p><ul><li>Node.js</li></ul><p>Development</p><ul><li>MERN Stack</li></ul><p>API Applications</p><ul><li>Rest APIs</li><li>AJAX/JSON</li></ul></td>
+<td><p>Relational</p><ul><li>MySQL</li><li>MongoDB</li><li>Mongoose</li><li>GraphQL</li></ul></td>
+<td><p>Process Management</p><ul><li>Agile Methodology</li></ul><p>Source Control</p><ul><li>Git, Shell Scripting</li></ul><p>IDEs</p><ul><li>Visual Studio Code</li></ul><p>Graphics</p><ul><li>Adobe Photoshop</li><li>Canva</li></ul></td>
+</tr>
+</tbody>
+</table>
