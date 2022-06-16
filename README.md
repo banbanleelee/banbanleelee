@@ -11,11 +11,10 @@
 - 📫 Reach out to me here - sallyyixuanzhang@gmail.com
 
 - ⚡ My skill set
-
-- AWS
-- ⬧ Lambda, ServerLess
-- Frontend
-- ⬧   Core: HTML, CSS, JavaScript
+| Command | Description |
+|**AWS**| Lambda, ServerLess|
+|**Frontend**|
+|Core|HTML, CSS, JavaScript|
 - ⬧   Libraries/Frameworks: jQuery, React.js
 - ⬧   CSS Libraries: Bootstrap, Materialize, FontAwesome, KendoUI, Bulma
 - Backend
