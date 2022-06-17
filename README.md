@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi :hugs: I'm Sally</h1>
-<h3 align="center">A passionate frontend developer originally from China</h3>
+<h3 align="center">A passionate full-stack developer originally from China</h3>
 
 - 🔭 I’m currently working on an insight-providing website for my favorite game **League of Legends**!
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at my [Work Portfolio Page](https://banbanleelee.github.io/WorkPortfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://banbanleelee.github.io/)
 
 - 📫 Reach out to me here - sallyyixuanzhang@gmail.com
 
