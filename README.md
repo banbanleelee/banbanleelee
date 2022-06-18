@@ -2,7 +2,7 @@
 <h1 align="center">Hi :hugs: I'm Sally</h1>
 <h3 align="center">A passionate full-stack developer originally from China</h3>
 
-- 🔭 I’m currently working on an insight-providing website for my favorite game **League of Legends**!
+- 🔭 I’m currently working on an insight-providing website for my favorite game **League of Legends** with React.JS and GraphQL!
 
 - 🌱 I’m currently learning **Next.js**
 
