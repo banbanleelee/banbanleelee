@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi :hugs: I'm Sally</h1>
-<h3 align="center">A passionate full-stack developer originally from China</h3>
+<h3 align="center">A passionate full-stack developer with a background in marketing and psychology</h3>
 
 - 🔭 I’m currently working on an insight-providing website for my favorite game **League of Legends** with React.JS and GraphQL!
 
