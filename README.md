@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://banbanleelee.github.io/ReactPortfolio/)
+- 👨‍💻 This is my [Portfolio](https://banbanleelee.github.io/ReactPortfolio/) page
 
 - 📫 Reach out to me here - sallyyixuanzhang@gmail.com
 
