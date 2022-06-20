@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an [insight-providing website](https://github.com/banbanleelee/carry) for my favorite game **League of Legends** with React.JS and GraphQL! 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Jotai.js**
 
 - 👨‍💻 This is my [Portfolio](https://banbanleelee.github.io/ReactPortfolio/) page
 
