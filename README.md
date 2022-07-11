@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi :hugs: I'm Sally</h1>
+<h1 align="center">Hi :hugs: My name is Sally</h1>
 <h3 align="center">A passionate full-stack developer with a background in marketing and psychology</h3>
 
 - 🔭 I’m currently working on an [insight-providing website](https://github.com/banbanleelee/carry) for my favorite game **League of Legends** with React.JS and GraphQL! 
