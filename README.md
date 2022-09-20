@@ -8,7 +8,7 @@
 
 - 👨‍💻 This is my [Portfolio](https://banbanleelee.github.io/ReactPortfolio/) page
 
-- 📫 Reach out to me here - sallyyixuanzhang@gmail.com
+- 📫 Reach out to me here - sallyhoney96@gmail.com
 
 - ⚡ My skill set
 
