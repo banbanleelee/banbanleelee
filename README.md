@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on an [insight-providing website](https://github.com/banbanleelee/carry) for my favorite game **League of Legends** with React.JS and GraphQL! 
 
-- 🌱 I’m currently learning **Jotai.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 This is my [Portfolio](https://banbanleelee.github.io/ReactPortfolio/) page
 
-- 📫 Reach out to me here - sallyhoney96@gmail.com
+- 📫 Reach out to me here - sallyzhang0205@gmail.com
 
 - ⚡ My skill set
 
