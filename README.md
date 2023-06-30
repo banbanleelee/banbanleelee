@@ -24,7 +24,7 @@
 </thead>
 <tbody>
 <tr VALIGN="TOP">
-<td><p>GQL</p><ul><li>Apollo</li></ul><p>AWS</p><ul><li>Lambda</li><li>ServerLess</li></ul><p>Hosting</p><li>Heroku</li><li>gh-pages</li></td>
+<td><p>GQL</p><ul><li>Apollo</li></ul><p>AWS</p><ul><li>Lambda</li><li>ServerLess</li></ul><p>Hosting</p><li>Heroku</li><li>gh-pages</li><li>Vercel</li><li>Netlify</li></td>
 <td><p>Core</p><ul><li>HTML</li><li>CSS</li><li>JavaScript</li></ul><p>Libraries/Frameworks</p><ul><li>jQuery</li><li>React.js</li></ul><p>CSS Libraries</p><ul><li>Bootstrap</li><li>Bulma</li><li>FontAwesome</li><li>Materialize</li><li>KendoUI</li></ul></td>
 <td><p>Environment</p><ul><li>Node.js</li></ul><p>Development</p><ul><li>MERN Stack</li></ul><p>API Applications</p><ul><li>Axios</li><li>Rest APIs</li><li>AJAX/JSON</li></ul></td>
 <td><p>Relational</p><ul><li>MySQL</li><li>MongoDB</li><li>Mongoose</li><li>GraphQL</li></ul></td>
